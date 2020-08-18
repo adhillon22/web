@@ -1,0 +1,282 @@
+
+ol{
+  list-style: none;
+  font-size: 1.2rem;
+
+}
+ol li{
+  float: right;
+  margin: 20px;
+  padding: 10px 20px;
+  position: relative;
+  transition: all 0.2sec
+  background-colour:yellow;
+}
+
+ol li a{
+  color: black;
+  text-decoration: none;
+}
+
+ol li ::before{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: black;
+  transition: all 0.2s;
+}
+
+ol li:hover::before{
+  bottom: 40px;
+  background: rgb(255, 63, 63);
+}
+
+ol li:hover{
+  background: rgb(255, 63, 63);
+}
+ol{
+  list-style: none;
+  font-size: 1.2rem;
+
+}
+ol li{
+  float: right;
+  margin: 20px;
+  padding: 10px 20px;
+  position: relative;
+  transition: all 0.2sec
+  background-colour:yellow;
+}
+
+ol li a{
+  color: white;
+  text-decoration: none;
+}
+
+ol li ::before{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: black;
+  transition: all 0.2s;
+}
+
+ol li:hover::before{
+  bottom: 40px;
+  background: rgb(255, 63, 63);
+}
+
+ol li:hover{
+  background: rgb(255, 63, 63);
+}
+ol{
+  list-style: none;
+  font-size: 1.2rem;
+
+}
+ol li{
+  float: right;
+  margin: 20px;
+  padding: 10px 20px;
+  position: relative;
+  transition: all 0.2sec
+  background-colour:yellow;
+}
+
+ol li a{
+  color: black;
+  text-decoration: none;
+}
+
+ol li ::before{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: black;
+  transition: all 0.2s;
+}
+
+ol li:hover::before{
+  bottom: 40px;
+  background: rgb(255, 63, 63);
+}
+
+ol li:hover{
+  background: rgb(255, 63, 63);
+}
+
+main{
+  background-color: white;
+}
+#LeftMain{
+  float:left;
+  border: 100% solid red;
+}
+
+#RightMain{
+  float: right;
+
+}
+#ImageOfhome{
+  float: right;
+}
+
+.Feed{
+  text-align: center;
+  padding-top: 660px;
+}
+#Paragraph{
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  font-size:24px;
+  font-style: italic;
+}
+#Paragraph2{
+  color: white;
+  background-color: orange;
+  float: left;
+  font-size: 19px;
+
+}
+
+.IndiaImg{
+  float: left;
+  padding-left: 400px;
+}
+.India{
+  float: right;
+  padding-right: 580px;
+  text-decoration: underline;
+}
+.ImageOfIndia1{
+  float: left;
+  padding-top: 28px;
+}
+.ParagraphOfInfdia1{
+  float: top right;
+  padding-left: 500px;
+  margin-top: 50px;
+  font-size: 18px;
+  border: 3px solid orange;
+  background-color: lightblue;
+}
+.ImageOfIndia2{
+  padding-left: 220px;
+  border: 3px solid orange;
+  background-color: lightblue;
+}
+.ParagraphOfInfdia2{
+  font-size: 18px;
+  border: 3px solid orange;
+  background-color: lightblue;
+}
+.ImageOfTourist{
+  float: left;
+  border: 3px solid #ddd;
+  border-radius: 4px;
+}
+.Caption1{
+  float: left;
+  padding-left: 100px;
+}
+.Caption2{
+  float: left;
+  padding-left: 220px;
+}
+.Caption3{
+  float: left;
+  padding-left: 200px;
+}
+.Caption4{
+  float: right;
+  padding-right: 100px;
+}
+.Tags{
+  text-align: center;
+  background-color: black;
+  padding-top: 27px;
+}
+.Heading{
+  text-align: center;
+}
+.Submit{
+  margin-right: 120px;
+}
+.header{
+  background-color: black;
+}
+.h1{
+  text-align: center;
+  margin-right:  430px;
+  color: white;
+  background-color: purple;
+  border: 3px solid #FAE6FA;
+  text-decoration: underline;
+}
+.ImageofUni{
+  padding-left: 230px;
+  background-color: #FAE6FA;
+}
+.ParaUni1{
+  background-color: #FAE6FA;
+  font-size: 18px;
+}
+.Submit{
+  text-align: center;
+}
+h4, h3{
+  text-decoration: underline;
+}
+.line{
+  border: 1px solid orange;
+}
+main{
+  background-color: black;
+}
+.Line1{
+  border: 1px solid black;
+}
+.HeadingHome{
+  margin-top: 30px;
+  color: white;
+  text-align: center;
+  font-size: 23px;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid white;
+}
+.Mum1{
+  text-align: center;
+}
+.Paramum1{
+  color: white;
+  font-size: 18px;
+  border: 1px solid white;
+}
+.Mum2{
+  border: 1px solid white;
+}
+#Paramum2{
+  color: white;
+  font-size: 18px;
+  border: 1px solid white;
+}
+#P1{
+  color: white;
+  font-size: 19px;
+  float: left;
+  width: 50%;
+}
+#I1{
+  border: 1px solid white;
+}
